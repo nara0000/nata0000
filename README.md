@@ -19,9 +19,9 @@ Sou graduada em *Análise e Desenvolvimento de Sistemas* e estou concluindo *MBA
 ---
 
 ### 📅 Objetivos Atuais
-* [ ] Desenvolver pequenos scripts para automação de tarefas cotidianas.
-* [ ] Documentar meus laboratórios de estudo aqui no GitHub.
-* [ ] Encontrar minha primeira oportunidade no mercado de tecnologia para evoluir na prática.
+* Desenvolver pequenos scripts para automação de tarefas cotidianas.
+* Documentar meus laboratórios de estudo aqui no GitHub.
+* Encontrar minha primeira oportunidade no mercado de tecnologia para evoluir na prática.
 
 ---
 
